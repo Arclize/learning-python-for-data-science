@@ -16,11 +16,13 @@ The goal of this repo is to:
 - **SQL**: Querying and managing structured data.
 
 ## Current Capabilities
-- **PowerBI**: business intelligence visualizations
+- **PowerBI**: business intelligence visualizations, advanced DAX, and m for Power Query
 - **Python**: Rotten Tomatoes dataset exploration for ratings and runtime trends.
 - **SQL**: Query optimization and relational database design.
-- **MATLAB**: MATLAB simplifies tasks like signal processing, optimization, and simulation, enabling rapid prototyping and analysis.
+- **MATLAB**: MATLAB for tasks like signal processing, optimization, and simulation, enabling rapid prototyping and analysis.
 - **MINITAB**: Software for statistical analysis and visualization
+- **SAP**: Analysis of business data using SAP business objects
+- **SEEQ**: For time series process analytics
 
 ---
 
