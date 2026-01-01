@@ -15,10 +15,12 @@ The goal of this repo is to:
 - **Python**: Data analysis, cleaning, and exploratory modeling.
 - **SQL**: Querying and managing structured data.
 
-## Current Projects
-- **Power BI Dashboards**: adventure-works, airline-loyalty-program, coffee-roasters, inspections, and the-toy-store. 
+## Current Capabilities
+- **Power BI Dashboards**: business intelligence visualizations
 - **Python Analysis**: Rotten Tomatoes dataset exploration for ratings and runtime trends.
 - **SQL Practice**: Query optimization and relational database design.
+- **MATLAB**: MATLAB simplifies tasks like signal processing, optimization, and simulation, enabling rapid prototyping and analysis.
+- **MINITAB**: Software for statistical analysis and visualization
 
 ---
 
