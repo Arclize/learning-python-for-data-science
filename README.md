@@ -6,7 +6,7 @@ This repository documents my personal learning journey as I work toward launchin
 The goal of this repo is to:
 - Showcase projects completed while learning **Power BI**, **Python**, and **SQL**.
 - Demonstrate practical applications of data analytics concepts.
-- Track progress toward building the technical foundation for Arclize Analytics.
+- Track progress toward building the technical foundation for Arclize.
 
 ---
 
@@ -24,7 +24,7 @@ The goal of this repo is to:
 
 ## Vision for Arclize
 Arclize aims to:
-- Deliver **custom BI dashboards** for small businesses and startups.
+- Deliver **custom BI dashboards** for businesses.
 - Build **scalable SaaS tools** for operational decision-making.
 - Combine **engineering rigor** with **business strategy** for actionable insights.
 
@@ -39,5 +39,5 @@ Arclize aims to:
 
 ## Connect
 If you’d like to follow this journey or collaborate:
-- [LinkedIn]( https://www.linkedin.com/in/cody-rumford/)
-- [Business Website](https://arclize.com)
+- [Founder LinkedIn]( https://www.linkedin.com/in/cody-rumford/)
+- [Arclize](https://www.arclize.com)
