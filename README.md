@@ -11,11 +11,6 @@ The goal of this repo is to:
 ---
 
 ## Technologies & Tools
-- **Power BI**: Interactive dashboards and data visualization.
-- **Python**: Data analysis, cleaning, and exploratory modeling.
-- **SQL**: Querying and managing structured data.
-
-## Current Capabilities
 - **PowerBI**: business intelligence visualizations, advanced DAX, and m for Power Query
 - **Python**: Rotten Tomatoes dataset exploration for ratings and runtime trends.
 - **SQL**: Query optimization and relational database design.
